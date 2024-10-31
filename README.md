@@ -1,4 +1,6 @@
 👋 Hi, I’m @Keziawest247
+
+
 I’m currently learning Python and am interested in leveraging it, along with artificial intelligence in industries such as healthcare, education, and entertainment, with a focus on areas like natural language processing, speech recognition, and content creation.
 
 
